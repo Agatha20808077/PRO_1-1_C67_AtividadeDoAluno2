@@ -27,11 +27,11 @@ export default class App extends React.Component {
         <Header
           backgroundColor={'#9c8210'}
           centerComponent={{
-            text: 'Macaquinho Fofo',
+            text: 'Macaquinho',
             style: { color: '#fff', fontSize: 20 },
           }}
         />
-
+<Text>hello</Text>
         <Image
           style={styles.imageIcon}
           source={{
